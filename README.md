@@ -45,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mark-hunchi/Leetcode-quizes/tree/master/0133-clone-graph) |
+| [1916-find-center-of-star-graph](https://github.com/Mark-hunchi/Leetcode-quizes/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
